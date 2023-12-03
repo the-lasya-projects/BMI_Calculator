@@ -3,6 +3,8 @@
 ## Overview
 
 BMI Calculator is a simple web application that helps users calculate their Body Mass Index (BMI). BMI is a measure of body fat based on an individual's weight and height. This project provides a user-friendly interface for users to input their weight and height, and it calculates and displays their BMI along with a corresponding health category.
+![68747470733a2f2f736f6369616c6966792e6769742e63692f4c616b68616e6b756d617761742f424d492d43616c63756c61746f722d4170702f696d6167653f666f6e743d4b6f486f26666f726b733d31266973737565733d31266c616e67756167653d31266c6f676f3d](https://github.com/the-lasya-projects/BMI_Calculator/assets/142709321/2f0f76b0-4252-4414-8c83-54ab11cbaab0)
+A new Flutter Project
 
 ## Features
 
