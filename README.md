@@ -6,6 +6,11 @@ BMI Calculator is a simple web application that helps users calculate their Body
 ![screen-2](https://github.com/the-lasya-projects/BMI_Calculator/assets/142709321/72719045-1b9d-4721-99a2-423c63ca30ce)
 
 A new Flutter Project
+# How it will look
+![122744527-af743f00-d2a5-11eb-84e7-b822a0d49278](https://github.com/the-lasya-projects/BMI_Calculator/assets/142709321/ed628461-c6b7-415b-a8b2-ac2ba07bafb4)
+
+
+
 
 ## Features
 
