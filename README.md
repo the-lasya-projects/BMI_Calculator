@@ -12,6 +12,7 @@ A new Flutter Project
 ![pic](https://github.com/the-lasya-projects/BMI_Calculator/assets/142709321/6b92bd2d-ea30-441a-a410-6b2ca3d492c1)
 
 
+![pic1](https://github.com/the-lasya-projects/BMI_Calculator/assets/142709321/8d8dc6ab-6e01-4949-8123-b8a556f652ae)
 
 
 ![122635653-da725d80-d102-11eb-9208-4c8d8b4a1ac6](https://github.com/the-lasya-projects/BMI_Calculator/assets/142709321/1778f061-61c2-4709-870e-c75d0e2453ad)
